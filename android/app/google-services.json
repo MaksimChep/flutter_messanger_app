@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337361179623",
+    "firebase_url": "https://fluttermessengerapp-fb552-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fluttermessengerapp-fb552",
+    "storage_bucket": "fluttermessengerapp-fb552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337361179623:android:4b38a67488ec09cf8e2342",
+        "android_client_info": {
+          "package_name": "com.chepurnykh.flutter_messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337361179623-cet2psbqaeo2ttl4repfk58rf9i16n34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chepurnykh.flutter_messenger_app",
+            "certificate_hash": "93937cc19f0d2550c500a376cbb0055abe42b141"
+          }
+        },
+        {
+          "client_id": "337361179623-d2820pm8ndsaqivn90ah8nvp6g7u86rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZvb-3OVoV00veW9C4Zegm7p5L42e58IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337361179623-d2820pm8ndsaqivn90ah8nvp6g7u86rk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337361179623-6ca079ff1a3ag6sons5iqu3jkilivut9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chepurnykh.flutterMessengerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
